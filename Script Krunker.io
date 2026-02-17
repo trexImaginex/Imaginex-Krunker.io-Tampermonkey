@@ -2,7 +2,7 @@
 // @name         Krunker.IO - IMAGINEX HUB
 // @namespace    http://tampermonkey.net/
 // @version      3.0.0
-// @description  Imaginex Hub - RedZ UI Style
+// @description  Imaginex Hub
 // @author       Imaginex
 // @match        *://krunker.io/*
 // @match        *://browserfps.com/*
