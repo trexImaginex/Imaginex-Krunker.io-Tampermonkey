@@ -10,17 +10,13 @@ I did not Create the Entire Script (see Credits)
 CREDITS AT THE BOTTOM
 
 # Things in the Script
-- Aim Increase
-- Aim on Left Mouse
+- Aimbot
+- Aimbot on Left Mouse
+- Aim Assist
 - ESP
 - Wireframe
 
 # Credits
-Zertalious (Zert)
-Zertalious (Zert)
-Zertalious (Zert)
-Zertalious (Zert)
-Zertalious (Zert)
 Zertalious (Zert)
 Imaginex (Me lol)
 Claude Ai :D
